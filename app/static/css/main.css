@@ -1,0 +1,84 @@
+body {
+  padding-top: 220px;
+}
+
+body.modal-open {
+	overflow: visible;
+}
+
+@media (min-width:700px) {
+	body {
+	  padding-top: 50px;
+	}
+}
+
+.top-pad {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.fancybox-inner .caption {
+	background-color: rgba(255,255,255,0.5);
+	bottom: 0;
+	left: 0;
+	padding: 2px 5px;
+	position: absolute;
+}
+
+.selectpicker + .bootstrap-select button[title$="..."],
+.selectpicker + .bootstrap-select button[title$="*"] {
+	color: gray;
+}
+
+.form-control[required],
+.selectpicker[required] + .bootstrap-select button,
+.btn-group.required-btns .btn.btn-default {
+	border-color: #fc0;
+}
+
+.form-control:invalid,
+.selectpicker:invalid + .bootstrap-select button {
+	border-color: #F00;
+}
+
+.img-circle {
+	border-width: 5px;
+	border-style: solid;
+}
+
+.p-available {
+	border-color: #0C0;
+}
+
+.p-old {
+	border-color: #f90;
+}
+
+.p-unavailable {
+	border-color: #999;
+}
+
+.p-unpayed {
+	border-color: #A00;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	display: block;
+}
+
+video {
+	width: 100%;
+}
+
+.bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn),
+.bootstrap-select {
+	max-width: 100%;
+}
+
+.bootstrap-tagsinput .tag.label-danger {
+	float: right;
+}
+
+.bootstrap-tagsinput .tag.label-danger [data-role="remove"] {
+	margin-left: 0;
+}
