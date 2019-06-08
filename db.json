@@ -1,0 +1,109 @@
+{
+  "objects": [
+    {
+      "category": "swimskill",
+      "id": 144,
+      "tag_en": null,
+      "tag_lv": "1",
+      "tag_ru": null
+    },
+    {
+      "category": "swimskill",
+      "id": 145,
+      "tag_en": null,
+      "tag_lv": "2",
+      "tag_ru": null
+    },
+    {
+      "category": "swimskill",
+      "id": 146,
+      "tag_en": null,
+      "tag_lv": "3",
+      "tag_ru": null
+    },
+    {
+      "category": "swimskill",
+      "id": 147,
+      "tag_en": null,
+      "tag_lv": "4",
+      "tag_ru": null
+    },
+    {
+      "category": "swimskill",
+      "id": 148,
+      "tag_en": null,
+      "tag_lv": "5",
+      "tag_ru": null
+    },
+    {
+      "category": "swimskill",
+      "id": 149,
+      "tag_en": null,
+      "tag_lv": "6",
+      "tag_ru": null
+    },
+    {
+      "category": "swimskill",
+      "id": 150,
+      "tag_en": null,
+      "tag_lv": "7",
+      "tag_ru": null
+    },
+    {
+      "category": "swimskill",
+      "id": 151,
+      "tag_en": null,
+      "tag_lv": "8",
+      "tag_ru": null
+    },
+    {
+      "category": "swimskill",
+      "id": 152,
+      "tag_en": null,
+      "tag_lv": "9",
+      "tag_ru": null
+    },
+    {
+      "category": "swimskill",
+      "id": 153,
+      "tag_en": null,
+      "tag_lv": "10",
+      "tag_ru": null
+    },
+    {
+      "category": "swimskill",
+      "id": 843,
+      "tag_en": "",
+      "tag_lv": "0",
+      "tag_ru": ""
+    },
+    {
+      "category": "swimskill",
+      "id": 1657,
+      "tag_en": "",
+      "tag_lv": "J\u0101",
+      "tag_ru": ""
+    },
+    {
+      "category": "swimskill",
+      "id": 1685,
+      "tag_en": "",
+      "tag_lv": "Peld",
+      "tag_ru": ""
+    },
+    {
+      "category": "swimskill",
+      "id": 2398,
+      "tag_en": "",
+      "tag_lv": "Nav",
+      "tag_ru": ""
+    },
+    {
+      "category": "swimskill",
+      "id": 4895,
+      "tag_en": "",
+      "tag_lv": "Nepat\u012bk",
+      "tag_ru": ""
+    }
+  ]
+}
